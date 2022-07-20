@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366865100312",
+    "project_id": "mimbay-26f33",
+    "storage_bucket": "mimbay-26f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366865100312:android:d0e0adabba7d5e7628dd6d",
+        "android_client_info": {
+          "package_name": "com.example.crm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366865100312-0ttbncu3nqvbpu2a0ibsh7fco4ucvb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tj65YsQwguBTywk1TopAYTxJ5nNN2so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366865100312-0ttbncu3nqvbpu2a0ibsh7fco4ucvb3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
